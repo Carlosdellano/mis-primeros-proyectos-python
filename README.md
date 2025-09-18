@@ -8,3 +8,4 @@ Aunque son simples, los incluyo para mostrar mi progreso desde el inicio.
 - **Perímetro y área cuadrado** → calcula ambos a partir del lado.
 - **Conversor Celsius → Fahrenheit** → convierte temperaturas.
 - **Suma de los 10 primeros números** → usa un bucle para sumar del 1 al 10.
+- **Calculadora** → Permite realizar sumas, restas, multiplicaciones y divisiones incluyendo posibles errores como una división entre "0" y otros.
